@@ -1,3 +1,7 @@
 <resources>
 	<string name="app_name">AndroidOTChallenge</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_description">Book description goes here and it might be a bit longer to give a sense of what the book is about.</string>
+    <string name="btn_retry">Retry</string>
+    <string name="errMessage">Something went wrong.</string>
 </resources>
